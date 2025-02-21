@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+th {
+    background-color: #f4f4f4;
+}
+input {
+    padding: 10px;
+    width: 50%;
+    margin: 20px 0;
+}
+#cheapestResult {
+    font-weight: bold;
+    color: green;
+}
+
+#supermarketLogo {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 100px;
+    height: auto;
+    display: none; 
+    opacity: 0.8; 
+}
+
